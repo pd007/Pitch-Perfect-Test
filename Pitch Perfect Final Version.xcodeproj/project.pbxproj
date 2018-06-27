@@ -13,7 +13,7 @@
 		B21B19F120E1E0320095CD82 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B21B19EF20E1E0320095CD82 /* LaunchScreen.storyboard */; };
 		B21B19F920E1E0B00095CD82 /* RecordSoundsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B21B19F820E1E0B00095CD82 /* RecordSoundsViewController.swift */; };
 		B21B19FB20E1E12C0095CD82 /* PlaySoundsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B21B19FA20E1E12C0095CD82 /* PlaySoundsViewController.swift */; };
-		B279FA6020E1E855007A0BA0 /* playsoundsviewcontroller-audio.swift in Sources */ = {isa = PBXBuildFile; fileRef = B279FA5F20E1E855007A0BA0 /* playsoundsviewcontroller-audio.swift */; };
+		B2DE78F820E2D4B500ED6B4C /* playsoundsviewcontroller-audio.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2DE78F720E2D4B500ED6B4C /* playsoundsviewcontroller-audio.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,7 +25,7 @@
 		B21B19F220E1E0320095CD82 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		B21B19F820E1E0B00095CD82 /* RecordSoundsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecordSoundsViewController.swift; sourceTree = "<group>"; };
 		B21B19FA20E1E12C0095CD82 /* PlaySoundsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlaySoundsViewController.swift; sourceTree = "<group>"; };
-		B279FA5F20E1E855007A0BA0 /* playsoundsviewcontroller-audio.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "playsoundsviewcontroller-audio.swift"; sourceTree = "<group>"; };
+		B2DE78F720E2D4B500ED6B4C /* playsoundsviewcontroller-audio.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "playsoundsviewcontroller-audio.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,7 +62,7 @@
 				B21B19F820E1E0B00095CD82 /* RecordSoundsViewController.swift */,
 				B21B19FA20E1E12C0095CD82 /* PlaySoundsViewController.swift */,
 				B21B19EA20E1E0310095CD82 /* Main.storyboard */,
-				B279FA5F20E1E855007A0BA0 /* playsoundsviewcontroller-audio.swift */,
+				B2DE78F720E2D4B500ED6B4C /* playsoundsviewcontroller-audio.swift */,
 				B21B19ED20E1E0320095CD82 /* Assets.xcassets */,
 				B21B19EF20E1E0320095CD82 /* LaunchScreen.storyboard */,
 				B21B19F220E1E0320095CD82 /* Info.plist */,
@@ -144,7 +144,7 @@
 				B21B19F920E1E0B00095CD82 /* RecordSoundsViewController.swift in Sources */,
 				B21B19FB20E1E12C0095CD82 /* PlaySoundsViewController.swift in Sources */,
 				B21B19E720E1E0310095CD82 /* AppDelegate.swift in Sources */,
-				B279FA6020E1E855007A0BA0 /* playsoundsviewcontroller-audio.swift in Sources */,
+				B2DE78F820E2D4B500ED6B4C /* playsoundsviewcontroller-audio.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
